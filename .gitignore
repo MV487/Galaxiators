@@ -397,5 +397,15 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
+# vcpkg
+vcpkg_installed/
+vcpkg_manifest.json
+vcpkg_manifest_desktop.json
+vcpkg_manifest_server.txt
+vcpkg_outdated.txt
+vcpkg_triplet.txt
+vcpkg_configs/
+vcpkg/
+
 # build directory
 bin/

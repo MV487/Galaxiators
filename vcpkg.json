@@ -1,0 +1,15 @@
+{
+    "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+    "version": "0.0.1",
+    "dependencies": [
+        {
+            "name": "eigen3",
+            "version>=" : "3.4.0"
+        },
+        {
+            "name": "raylib",
+            "version>=" : "5.0"
+        }
+    ],
+    "builtin-baseline": "3dd44b931481d7a8e9ba412621fa810232b66289"
+}
